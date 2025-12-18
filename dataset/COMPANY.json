@@ -1,0 +1,34 @@
+{
+    "slot": "$COMPANY$",
+    "question_existence": "Is there a company called $COMPANY$?",
+    "real": [
+        "Meters/bonwe",
+        "Litera",
+        "Petrokemija",
+        "Alghanim Industries",
+        "Hua Hong Semiconductor",
+        "Arcane Kids",
+        "Prodigy Network",
+        "Howard Hughes Engineering",
+        "DeLorme",
+        "Despair, Inc."
+    ],
+    "fabricated": [
+        "Marks/rone",
+        "ExLitero",
+        "Hvrakemija",
+        "El Fadly Industries",
+        "Xian Xi Semiconductor",
+        "Mystic Beaver",
+        "Founders Mingle",
+        "Richard Rodgers Engineering",
+        "DeLorres",
+        "Suffering, Inc."
+    ],
+    "questions": [
+        "What industry ist the company $COMPANY$ in?",
+        "When was the company $COMPANY$ founded?",
+        "Where are the company headquarters of $COMPANY$?",
+        "How many employees does $COMPANY$ have?"
+    ]
+}

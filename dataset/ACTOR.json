@@ -1,0 +1,34 @@
+{
+    "slot": "$ACTOR$",
+    "question_existence": "Is there an actor called $ACTOR$?",
+    "real": [
+        "Victor Artus Solaro",
+        "Karin Ogino",
+        "Laura Smet",
+        "Linda Molin",
+        "Félix Oudart",
+        "Lasse Krantz",
+        "Christiane Barry",
+        "Tetsuya Bessho",
+        "Dorothiea Ivonniea Hundley",
+        "Janet Henfrey"
+    ],
+    "fabricated": [
+        "Freida Lowe",
+        "Branden Weiss",
+        "May Higgins",
+        "Roscoe Pollard",
+        "Alton Holmes",
+        "Modesto Doyle",
+        "Samual Dunlap",
+        "Aaron Wu",
+        "Sheri Huang",
+        "Ronda Oneill"
+    ],
+    "questions": [
+        "Name some movies with actor $ACTOR$.",
+        "Which role is actor $ACTOR$ best known for?", 
+        "When was actor $ACTOR$ born?",
+        "Where is actor $ACTOR$ from?"
+    ]
+}

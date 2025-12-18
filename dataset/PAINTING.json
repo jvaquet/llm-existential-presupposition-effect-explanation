@@ -1,0 +1,37 @@
+{
+    "slot": "$PAINTING$",
+    "question_existence": "Is there a painting called $PAINTING$?",
+    "real": [
+        "Boulevard Montmartre In Paris",
+        "Flaming June",
+        "The Gleaners",
+        "The Harvesters",
+        "The Ninth Wave",
+        "Creation Of Adam",
+        "The Mona Lisa",
+        "The Peaceable Kingdom",
+        "The Lock",
+        "Composition With Red Blue And Yellow"
+    ],
+    "fabricated": [
+        "Rue au bord de la Seine",
+        "Blooming March",
+        "The Shepherds",
+        "The Millers",
+        "The Ninth Cloud",
+        "Cain Murders Abel",
+        "The Lucia Rosa",
+        "The Perishable Kingdom",
+        "The Grand Trading Vessel",
+        "Green Yellow and Magenta Composition"
+    ],
+    "questions": [
+        "Who painted the famous paining $PAINTING$?",
+        "When was the famous paining $PAINTING$ painted?",
+        "Which art movement does the famous paining $PAINTING$ belong to?",
+        "How big is the famous paining $PAINTING$?",
+        "Where is the famous paining $PAINTING$ today?",
+        "With which medium was the famous paining $PAINTING$ painted?",
+        "What is the estimated value of the famous painting $PAINTING$?"
+    ]
+}

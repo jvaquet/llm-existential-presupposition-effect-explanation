@@ -1,0 +1,38 @@
+{
+    "slot": "$CITY$",
+    "question_existence": "Is there a city called $CITY$?",
+    "real": [
+        "Budennovsk",
+        "Malkinia Gorna",
+        "Bartenheim",
+        "Ketzin",
+        "Fuding",
+        "Beaufort West",
+        "Norristown",
+        "Lupi",
+        "Ejea De Los Caballeros",
+        "Rawah"
+    ],
+    "fabricated": [
+        "Snegovetsk",
+        "Srebrzyn",
+        "Brisemont",
+        "Sturmfeld",
+        "Bǎohuā",
+        "Thandavale",
+        "Briarstone Falls",
+        "San Lunan",
+        "La Vega del Alamo",
+        "Sahl al-Amir"
+    ],
+    "questions": [
+        "In which country is the city of $CITY$ located?",
+        "Where is the city of $CITY$ located?",
+        "When was the city of $CITY$ founded?",
+        "What is the population of the city of $CITY$?",
+        "Name some notable people born in the city of $CITY$.",
+        "Is $CITY$ a tourist city?",
+        "Tell me about the history of the city of $CITY$.",
+        "Who is the mayor of the city of $CITY$?"
+    ]
+}

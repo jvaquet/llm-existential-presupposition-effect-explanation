@@ -1,0 +1,34 @@
+{
+    "slot": "$LIBRARY_JAVASCRIPT$",
+    "question_existence": "Is there a javascript library called $LIBRARY_JAVASCRIPT$?",
+    "real": [
+        "p-locate",
+        "concat-map ",
+        "arrify",
+        "recompose",
+        "dtrace-provider",
+        "querystring",
+        "jsdom",
+        "bootstrap",
+        "one-time",
+        "tinycolor2"
+    ],
+    "fabricated": [
+        "array-search",
+        "reverse-map",
+        "any2array",
+        "mozart-composer",
+        "strace-collector",
+        "stringify-requests",
+        "nodedom",
+        "nice-niche",
+        "do-it-once",
+        "easycolor"
+    ],
+    "questions": [
+        "What is the javascript library $LIBRARY_JAVASCRIPT$ used for?",
+        "What is the GitHub repository for the javascript library $LIBRARY_JAVASCRIPT$?",
+        "Write some javascript code explaining the core features of the $LIBRARY_JAVASCRIPT$ javascript library.",
+        "Explain how you would use the $LIBRARY_JAVASCRIPT$ javascript library in a project of your choice."
+    ]
+}

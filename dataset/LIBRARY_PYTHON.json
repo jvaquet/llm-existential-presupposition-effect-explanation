@@ -1,0 +1,34 @@
+{
+    "slot": "$LIBRARY_PYTHON$",
+    "question_existence": "Is there a python library called $LIBRARY_PYTHON$?",
+    "real": [
+        "pyee",
+        "slack-sdk",
+        "mkdocs-material",
+        "python-nvd3",
+        "s3fs",
+        "types-setuptools",
+        "apache-airflow-providers-common-sql",
+        "traitlets",
+        "cloudpathlib",
+        "celery"
+    ],
+    "fabricated": [
+        "inventive-py",
+        "skype-sdk",
+        "htmlify-material",
+        "python-viz",
+        "ipfs-py",
+        "types-wheel",
+        "oracle-db-providers-sql",
+        "typestrong",
+        "cloudfiletools",
+        "currant"
+    ],
+    "questions": [
+        "What is the python library $LIBRARY_PYTHON$ used for?",
+        "What is the GitHub repository for the python library $LIBRARY_PYTHON$?",
+        "Write some python code explaining the core features of the $LIBRARY_PYTHON$ python library.",
+        "Explain how you would use the $LIBRARY_PYTHON$ python library in a project of your choice."
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "slot": "$ISLAND$",
+    "question_existence": "Is there a island called $ISLAND$?",
+    "real": [
+        "Aracena Island",
+        "Minamitorishima Island",
+        "Clipperton Island",
+        "Penguin Island",
+        "Horsburgh Island",
+        "Anglesey Island",
+        "Egger Island",
+        "Gough Island",
+        "Isla de los Estados",
+        "Baffin Island"
+    ],
+    "fabricated": [
+        "Kailu'ula Island",
+        "Sandra Kecor Island",
+        "Serine Island",
+        "Virellia Island",
+        "Kavikal Island",
+        "Vakenar Island",
+        "Guaiben Island",
+        "Yoma Island",
+        "Erzebet Island",
+        "Tolan Island"
+    ],
+    "questions": [
+        "Where is the island of $ISLAND$?",
+        "How big is the island of $ISLAND$?",
+        "What is the elevation of the island of $ISLAND$?",
+        "What is the population of the island of $ISLAND$?",
+        "Is $ISLAND$ a tourist island?"
+    ]
+}
+

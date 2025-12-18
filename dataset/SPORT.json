@@ -1,0 +1,35 @@
+{
+    "slot": "$SPORT$",
+    "question_existence": "Is there a sport called $SPORT$?",
+    "real": [
+        "Polo",
+        "Production Car Racing",
+        "Chess",
+        "Artistic Gymnastics",
+        "Reining",
+        "Ice Stock Sport",
+        "Kubb",
+        "Show Jumping",
+        "Roque",
+        "Long-Track Speed Skating"
+    ],
+    "fabricated": [
+        "Rilo",
+        "River Car Racing",
+        "Quelm",
+        "Rapid Gymnastics",
+        "Turning",
+        "Ice Spear Sport",
+        "Rebb",
+        "Rock Jumping",
+        "Weque",
+        "Skate Hurdling"
+    ],
+    "questions": [
+        "Briefly describe the rules of the sport $SPORT$.",
+        "Is the sport $SPORT$ olympic?",
+        "Is $SPORT$ a team or individual sport?",
+        "What are the origins of the sport $SPORT$?",
+        "Where is the sport $SPORT$ most popular?"
+    ]
+}

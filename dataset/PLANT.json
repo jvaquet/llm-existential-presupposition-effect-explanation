@@ -1,0 +1,35 @@
+{
+    "slot": "$PLANT$",
+    "question_existence": "Is there a plant called $PLANT$?",
+    "real": [
+        "Coleus maculosus",
+        "Lonchocarpus santarosanus",
+        "Begonia aequilateralis",
+        "Isolepis setacea",
+        "Oberonia complanata",
+        "Carex albula",
+        "Euphorbia paralias",
+        "Cyperus pallidicolor",
+        "Justicia warmingii",
+        "Aloe ballii"
+    ],
+    "fabricated": [
+        "Coleus epigaeus",
+        "Lonchocarpus insignis",
+        "Begonia morenoi",
+        "Isolepis citrea",
+        "Oberonia bicolor",
+        "Carex caprina",
+        "Euphorbia michauxiana",
+        "Cyperus perlignea",
+        "Justicia ossicaulis",
+        "Aloe bicalcarata"
+    ],
+    "questions": [
+        "How does a $PLANT$ look like?",
+        "What is the common name for $PLANT$?",
+        "Where is $PLANT$ native?",
+        "What is the conservation status of $PLANT$?",
+        "What color do $PLANT$ flowers have?"
+    ]
+}

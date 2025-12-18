@@ -1,0 +1,35 @@
+{
+    "slot": "$MUSHROOM$",
+    "question_existence": "Is there a mushroom called $MUSHROOM$?",
+    "real": [
+        "Summer Cep",
+        "Pine Truffle",
+        "Dove-Coloured Tricholoma",
+        "Bleach Cup",
+        "Rosy Bonnet",
+        "Stinking Dapperling",
+        "Common Ink Cap",
+        "Ivory Funnel",
+        "Woolly Milkcap",
+        "Man on Horseback"
+    ],
+    "fabricated": [
+        "Fall Cep",
+        "Rose Truffle",
+        "Long-Gilled Tricholoma",
+        "Rain Cup",
+        "Spotted Bonnet",
+        "Shimmering Dapperling",
+        "Pointy Red Cap",
+        "Ink Funnel",
+        "Rounded Boarcap",
+        "Wild Fox"
+    ],
+    "questions": [
+        "What is the latin name for a $MUSHROOM$ mushroom?",
+        "Where are $MUSHROOM$ mushrooms native?",
+        "How to identify a $MUSHROOM$ mushroom?",
+        "Is a $MUSHROOM$ mushroom edible?",
+        "How big do $MUSHROOM$ mushrooms get?"
+    ]
+}

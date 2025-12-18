@@ -1,0 +1,35 @@
+{
+    "slot": "$DISEASE$",
+    "question_existence": "Is there a medical condition called $DISEASE$?",
+    "real": [
+        "Mikulicz' Disease",
+        "Central Pontine Myelinolysis",
+        "Terson Syndrome",
+        "Hepatomegaly",
+        "Congenital Generalized Lipodystrophy",
+        "Night Eating Syndrome",
+        "Eczema Herpeticum",
+        "Postpartum Psychosis",
+        "Fibrous Hamartoma of Infancy",
+        "Peeling Skin Syndrome"
+    ],
+    "fabricated": [
+        "Ronaczick's Disease",
+        "Spinal Myelinolysis",
+        "Peterson Syndrome",
+        "Hepatolomy",
+        "Membrorum lipodystrophy",
+        "Continual Eating Syndrome",
+        "Eczema Pede",
+        "Situs Psychosis",
+        "Woven Hamartoma",
+        "Excessive Sweat Syndrome"
+    ],
+    "questions": [
+        "What are causes for $DISEASE$?",
+        "What symptoms are there for $DISEASE$?",
+        "How is $DISEASE$ diagnosed?",
+        "What treatments are there for $DISEASE$?",
+        "Can someone recover from $DISEASE$?"
+    ]
+}

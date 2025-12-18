@@ -1,0 +1,36 @@
+{
+    "slot": "$REPTILE$",
+    "question_existence": "Is there a reptile called $REPTILE$?",
+    "real": [
+        "Keeled Water Skink",
+        "Small-Spotted Lizard",
+        "Blackneck Garter Snake",
+        "Hawksbill Sea Turtle",
+        "Black Caiman",
+        "Smooth Snake",
+        "Pond Slider",
+        "Dune Gecko",
+        "Boulenger's Dasia",
+        "Yercaud Day Gecko"
+    ],
+    "fabricated": [
+        "Pebbled Rock Skink",
+        "Big Striped Lizard",
+        "White Spear Garter Snake",
+        "Johnson Sea Turtle",
+        "Great Gray Caiman",
+        "Fish Scale Snake",
+        "Lake Ditcher",
+        "Small Crack Gecko",
+        "Fisher's Dasia",
+        "Yumani Gecko"
+    ],
+    "questions": [
+        "Is a $REPTILE$ carnivore, herbivore or omnivore?",
+        "How does a $REPTILE$ look like?",
+        "How big can a $REPTILE$ get?",
+        "Where is the $REPTILE$ native?",
+        "What is the conservation status of the $REPTILE$?",
+        "What is the latin name for the $REPTILE$?"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "slot": "$MAMMAL$",
+    "question_existence": "Is there a mammal called $MAMMAL$?",
+    "real": [
+        "Northern Bottlenose Whale",
+        "Western Barbastelle",
+        "Common Sheath-Tailed Bat",
+        "Sperm Whale",
+        "Caracal",
+        "Crested Mona Monkey",
+        "Kinkajou",
+        "Bahamian Hutia",
+        "Javan Rusa",
+        "Rock Hyrax"
+    ],
+    "fabricated": [
+        "Moon Fin Whale",
+        "Common Triangle Bat",
+        "Eastern Lizard Bat",
+        "Torpedo Whale",
+        "Curico",
+        "Brown Tailed Monkey",
+        "Kinomi",
+        "Peruvian Hutia",
+        "Australian Rumara",
+        "Glacial Hyrax"
+    ],
+    "questions": [
+        "Is a $MAMMAL$ carnivore, herbivore or omnivore?",
+        "How does a $MAMMAL$ look like?",
+        "How big can a $MAMMAL$ get?",
+        "Where is the $MAMMAL$ native?",
+        "Does the $MAMMAL$ live in herds or alone?",
+        "What is the conservation status of the $MAMMAL$?",
+        "What is the latin name for the $MAMMAL$?"
+    ]
+}

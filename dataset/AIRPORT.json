@@ -1,0 +1,36 @@
+{
+    "slot": "$AIRPORT$",
+    "question_existence": "Is there an airport called $AIRPORT$?",
+    "real": [
+        "Nador International Airport",
+        "Djibouti-Ambouli International Airport",
+        "Samaná El Catey International Airport",
+        "Loreto International Airport",
+        "Juneau International Airport",
+        "Mudanjiang Hailang International Airport",
+        "Sultan Hasanuddin International Airport",
+        "Kraków John Paul II International Airport",
+        "Lisbon Airport",
+        "Mount Hagen Airport"
+    ],
+    "fabricated": [
+        "Kairouan International Airport",
+        "Lusaka-Kafue International Airport",
+        "Kingston Portmore Airport",
+        "Rio Lerma Airport",
+        "Silver Mountain Airport",
+        "Jingmen International Airport",
+        "Surabaya-Gresik International Airport",
+        "Władysław Raczkiewicz Airport Łódź",
+        "Coimbra-Aveiro International Airport",
+        "Queen Elizabeth International Airport Melbourne"
+    ],
+    "questions": [
+        "Where is $AIRPORT$ located?",
+        "How many passengers does $AIRPORT$ serve every year?",
+        "How many daily flights does $AIRPORT$ have?",
+        "Which airlines mainly serve $AIRPORT$?",
+        "What is the IATA code for $AIRPORT$?",
+        "What is the ICAO code for $AIRPORT$?"
+    ]
+}

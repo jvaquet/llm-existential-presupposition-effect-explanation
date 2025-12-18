@@ -1,0 +1,45 @@
+{
+    "slot": "$COUNTRY$",
+    "question_existence": "Is there a country called $COUNTRY$?",
+    "real": [
+        "Laos",
+        "Bahrain",
+        "Brazil",
+        "Madagascar",
+        "Bhutan",
+        "Ireland",
+        "Liechtenstein",
+        "Andorra",
+        "South Africa",
+        "Tajikistan"
+    ],
+    "fabricated": [
+        "Lari",
+        "Bahouz",
+        "Brafin",
+        "Magizouh",
+        "Brivane",
+        "Fraland",
+        "Veldenburg",
+        "Spena",
+        "East Dorian",
+        "Kunistan"
+    ],
+    "questions": [
+        "What is the capital of $COUNTRY$?",
+        "What is the official language of $COUNTRY$?",
+        "How is the national anthem of $COUNTRY$ called?",
+        "What is the total area of the country of $COUNTRY$?",
+        "What is the population of $COUNTRY$?",
+        "What currency does $COUNTRY$ use?",
+        "What is the country code of $COUNTRY$?",
+        "What is the top level domain of $COUNTRY$?",
+        "Which continent is the country of $COUNTRY$ on?",
+        "What is the government system of $COUNTRY$?",
+        "Who is the head of state of $COUNTRY$?",
+        "Name some notable people from $COUNTRY$?",
+        "What does the national flag of $COUNTRY$ look like?",
+        "What is the country of $COUNTRY$ known for internationally?",
+        "Tell me some trivia facts about the country of $COUNTRY$."
+    ]
+}

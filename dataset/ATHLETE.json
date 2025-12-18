@@ -1,0 +1,34 @@
+{
+    "slot": "$ATHLETE$",
+    "question_existence": "Is there an professional athlete called $ATHLETE$?",
+    "real": [
+        "Amit Sheoran",
+        "Camila Martins Pereira",
+        "Carole Grundisch",
+        "Carmelo García",
+        "Przemysław Wiśniewski",
+        "Quentin Daubin",
+        "Camiel Neghli",
+        "Pylyp Budkivskyi",
+        "Roberto Solozábal",
+        "Catalina Peláez"
+    ],
+    "fabricated": [
+        "Donte Pugh",
+        "Marietta Figueroa",
+        "Chauncey Walter",
+        "Luigi Carney",
+        "Lorrie Garrison",
+        "Aimee Hart",
+        "Ira Pennington",
+        "Berry Nicholson",
+        "Toby Benjamin",
+        "Socorro Cohen"
+    ],
+    "questions": [
+        "What sport does professional athlete $ATHLETE$ do?",
+        "What is the highest sporting achievement of professional athlete $ATHLETE$?",
+        "When was professional athlete $ATHLETE$ born?",
+        "Where is professional athlete $ATHLETE$ from?"
+    ]
+}

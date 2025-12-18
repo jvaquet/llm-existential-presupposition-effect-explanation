@@ -1,0 +1,38 @@
+{
+    "slot": "$BIRD$",
+    "question_existence": "Is there a bird called $BIRD$?",
+    "real": [
+        "Gadwall",
+        "Scaly Spurfowl",
+        "Pied-Billed Grebe",
+        "Chimney Swift",
+        "Eastern Whip-Poor-Will",
+        "Small-Billed Tinamou",
+        "Pied Avocet",
+        "Himalayan Vulture",
+        "Arabian Babbler",
+        "Lesser Whitethroat"
+    ],
+    "fabricated": [
+        "Gudwom",
+        "Orange Spurfowl",
+        "Long-Tailed Grebe",
+        "Roof Tile Swift",
+        "Black Belly Nightjar",
+        "Peanut Tinamou",
+        "Toe Avocet",
+        "Alp Vulture",
+        "European Babbler",
+        "Lesser Red Beak"
+    ],
+    "questions": [
+        "Is a $BIRD$ carnivore, herbivore or omnivore?",
+        "How does a $BIRD$ look like?",
+        "How big can a $BIRD$ get?",
+        "Where is the $BIRD$ native?",
+        "Does the $BIRD$ live in groups or alone?",
+        "What is the conservation status of the $BIRD$?",
+        "Does the $BIRD$ migrate?",
+        "What is the latin name for the $BIRD$?"
+    ]
+}

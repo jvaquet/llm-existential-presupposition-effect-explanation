@@ -1,0 +1,35 @@
+{
+    "slot": "$RIVER$",
+    "question_existence": "Is there a river called $RIVER$?",
+    "real": [
+        "Clarion River",
+        "Coppermine River",
+        "Aguán River",
+        "Petitcodiac River",
+        "Attawapiskat River",
+        "River Weaver",
+        "Damodar River",
+        "Iguaçu River",
+        "Pee Dee River",
+        "Brahmani River"
+    ],
+    "fabricated": [
+        "Thundercliff River",
+        "Emberbrook River",
+        "Silverleaf River",
+        "Ironwood River",
+        "Kailasa Nadi River",
+        "Yamunika River",
+        "Solena River",
+        "Manduna River",
+        "Luchína River",
+        "Vaskalda River"
+    ],
+    "questions": [
+        "Which countries does the $RIVER$ flow through?",
+        "Which major cities does the $RIVER$ flow through?",
+        "Where is the source of the $RIVER$?",
+        "Where is the mouth of the $RIVER$?",
+        "How long is the $RIVER$?"
+    ]
+}

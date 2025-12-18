@@ -1,0 +1,36 @@
+{
+    "slot": "$AMPHIBIAN$",
+    "question_existence": "Is there a amphibian called $AMPHIBIAN$?",
+    "real": [
+        "Broad-Banded Grassland Frog",
+        "Asian Giant Toad",
+        "Shoemaker Frog",
+        "Northern Crested Newt",
+        "European Common Brown Frog",
+        "Graceful Splayfoot Salamander",
+        "Jefferson Salamander",
+        "Giant Ditch Frog",
+        "Mexican White-Lipped Frog",
+        "Cope's Toad"
+    ],
+    "fabricated": [
+        "Woodland Ditch Frog",
+        "European Giant Toad",
+        "Butcher Frog",
+        "Western Arc Newt",
+        "Common White Frog",
+        "Trifoot Salamander",
+        "Frederiksen Salamander",
+        "Small Mud Frog",
+        "Nordic Brown Back Frog",
+        "Sanchez Toad"
+    ],
+    "questions": [
+        "Is a $AMPHIBIAN$ carnivore, herbivore or omnivore?",
+        "How does a $AMPHIBIAN$ look like?",
+        "How big can a $AMPHIBIAN$ get?",
+        "Where is the $AMPHIBIAN$ native?",
+        "What is the conservation status of the $AMPHIBIAN$?",
+        "What is the latin name for the $AMPHIBIAN$?"
+    ]
+}

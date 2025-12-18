@@ -1,0 +1,37 @@
+{
+    "slot": "$SONG$",
+    "question_existence": "Is there a song called $SONG$?",
+    "real": [
+        "Squabble Up",
+        "Goodies",
+        "With Arms Wide Open",
+        "Out of Touch",
+        "London Bridge",
+        "Celebration" ,
+        "Rock'n Me" ,
+        "Big Bad John" ,
+        "Tequila",
+        "I'll Walk Alone"
+    ],
+    "fabricated": [
+        "Echoes from Today",
+        "Chasing other Heights",
+        "Faded Dreams of Yesterday",
+        "My Palace of Broken Hearts",
+        "Silence from Below",
+        "Silent Winds",
+        "Through Fire Wind and Water",
+        "Voices of Shame",
+        "My Little Ben",
+        "Rock it up Brother"
+    ],
+    "questions": [
+        "Who wrote the song $SONG$?",
+        "Who produced the song $SONG$?",
+        "Which singer or band is known for the song $SONG$?",
+        "When was the song $SONG$ released?",
+        "Which music genre is the song $SONG$?",
+        "Give me the lyrics of the song $SONG$?",
+        "How long is the song $SONG$?"
+    ]
+}

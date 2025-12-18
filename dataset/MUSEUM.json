@@ -1,0 +1,35 @@
+{
+    "slot": "$MUSEUM$",
+    "question_existence": "Is there a museum called $MUSEUM$?",
+    "real": [
+        "Pierides Museum",
+        "Australian Museum of Childhood",
+        "Nahum Gutman Museum of Art",
+        "Sudan Ethnographic Museum",
+        "Art Museum of Estonia",
+        "National Museum of Art of Romania",
+        "Boganda National Museum",
+        "Marrakesh Museum of Confluences",
+        "Geological Museum after H. Karapetyan",
+        "Kelantan Islamic Museum"
+    ],
+    "fabricated": [
+        "Nicosia Geological Museum",
+        "Queensland Chocolate Museum",
+        "Eilat Museum of Modern Art",
+        "Sudan Museum of Art",
+        "Tartu Furniture Museum",
+        "Bucharest Science Museum",
+        "Bangui Museum of Modern Art",
+        "Marrakech Tea Museum",
+        "Yerevan Maritime Museum",
+        "Kuala Lumpur Culinary Art Museum"
+    ],
+    "questions": [
+        "What does the $MUSEUM$ exhibit?",
+        "What type of museum is the $MUSEUM$?",
+        "When was the $MUSEUM$ established?",
+        "Where is the $MUSEUM$ located?",
+        "What is the $MUSEUM$ most known for?"
+    ]
+}

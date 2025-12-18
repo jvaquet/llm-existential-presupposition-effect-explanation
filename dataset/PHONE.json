@@ -1,0 +1,34 @@
+{
+    "slot": "$PHONE$",
+    "question_existence": "Is there a smartphone model called $PHONE$?",
+    "real": [
+        "MX4 Ubuntu Edition",
+        "Moto G",
+        "A9 2020",
+        "Mate 9",
+        "Galaxy S II",
+        "K62",
+        "Galaxy Folder 2",
+        "K6 Power",
+        "Galaxy A3",
+        "Cavalier"
+    ],
+    "fabricated": [
+        "FX3 Open Edition",
+        "Leno S",
+        "D8 2021",
+        "Friend 6",
+        "Star X III",
+        "M49",
+        "Space Fold 3",
+        "P6 Power",
+        "Glow B2",
+        "Humble"
+    ],
+    "questions": [
+        "Which company manufactured the smartphone model $PHONE$",
+        "When was the smartphone model $PHONE$ released?",
+        "Which operating system does the smartphone model $PHONE$ use?",
+        "Which processor does the smartphone model $PHONE$ have?"
+    ]
+}

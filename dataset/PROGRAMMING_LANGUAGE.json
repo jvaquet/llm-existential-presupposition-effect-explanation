@@ -1,0 +1,34 @@
+{
+    "slot": "$LANGUAGE$",
+    "question_existence": "Is there a programming language called $LANGUAGE$?",
+    "real": [
+        "Active Oberon",
+        "Pnuts",
+        "BCPL",
+        "MSX BASIC",
+        "Elixir",
+        "Cilk",
+        "C*",
+        "EEL",
+        "Verilog",
+        "Nim"
+    ],
+    "fabricated": [
+        "Active Control",
+        "ELBerry",
+        "VFCL",
+        "FEC BASIC",
+        "Spectacle",
+        "Zoom",
+        "C func",
+        "OEL",
+        "Amelog",
+        "quan"
+    ],
+    "questions": [
+        "What paradigms does the $LANGUAGE$ programming language follow?",
+        "Write a hello world program in $LANGUAGE$.",
+        "When was the $LANGUAGE$ programming language released?",
+        "What use cases is the $LANGUAGE$ programming language designed for?"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "slot": "$AWARD$",
+    "question_existence": "Is there a award called the $AWARD$?",
+    "real": [
+        "Fritz London Memorial Prize",
+        "John Cedric Griffiths Teaching Award",
+        "Robert Boyle Prize for Analytical Science",
+        "Geschwister-Scholl-Preis Award",
+        "Howland Memorial Prize",
+        "Silver Gavel Award",
+        "Kohn Award",
+        "Wolf Prize in Agriculture",
+        "Inge Morath Award",
+        "Kerala Sahitya Akademi Award for Humour"
+    ],
+    "fabricated": [
+        "Peter Edinburgh Memorial Prize",
+        "Samuel Francis Teaching Award",
+        "Christopher Spencer Prize for Analytical Science",
+        "Roman-Kaiser-Preis Award",
+        "Pietsbury Memorial Prize",
+        "Just Gavel Award",
+        "Chomsky Award",
+        "Pearson Prize in Agriculture",
+        "Elizabeth Remston Award",
+        "Naina Modak Akademi Award for Acting"
+    ],
+    "questions": [
+        "What is the $AWARD$ awarded for?",
+        "Who last won the $AWARD$?",
+        "What is the reward for the $AWARD$?",
+        "When was the $AWARD$ first awarded?",
+        "Who hosts the $AWARD$?"
+    ]
+}

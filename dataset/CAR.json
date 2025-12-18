@@ -1,0 +1,34 @@
+{
+    "slot": "$CAR$",
+    "question_existence": "Is there a car model called $CAR$?",
+    "real": [
+        "Fox",
+        "Vedette",
+        "Kitten",
+        "Kadett",
+        "Mark X ZiO",
+        "Tosca",
+        "Passat B3",
+        "Loadstar",
+        "Starlet",
+        "Escort"
+    ],
+    "fabricated": [
+        "Elephant",
+        "Sentry",
+        "Puppy",
+        "Officer",
+        "Mark VI XL",
+        "Lica",
+        "Nino B4",
+        "Transking",
+        "Glow",
+        "Company"
+    ],
+    "questions": [
+        "Which car manufacturer built the car model $CAR$?",
+        "What class of car is the model $CAR$?",
+        "When was the car model $CAR$ produced?",
+        "What is the top speed of the car model $CAR$?"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "slot": "$TREE$",
+    "question_existence": "Is there a tree called $TREE$?",
+    "real": [
+        "Tōtara",
+        "Larch",
+        "Coast Redwood",
+        "Ramin",
+        "Silk Cotton",
+        "Hornbeam",
+        "Neem",
+        "Alder",
+        "Brazilwood",
+        "Argan"
+    ],
+    "fabricated": [
+        "Tirōta",
+        "Spur",
+        "Mountain Redwood",
+        "Cultin",
+        "Blue Silk",
+        "Woodtooth",
+        "Kus",
+        "Benim",
+        "Chilewood",
+        "Ruman"
+    ],
+    "questions": [
+        "What is the latin name for a $TREE$ tree?",
+        "Where are $TREE$ trees native?",
+        "What is the conservation status of $TREE$ trees?",
+        "How big can $TREE$ trees get?",
+        "What are the characteristics of $TREE$ wood?"
+    ]
+}

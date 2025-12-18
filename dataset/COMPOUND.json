@@ -1,0 +1,35 @@
+{
+    "slot": "$COMPOUND$",
+    "question_existence": "Is there a chemical compound called $COMPOUND$?",
+    "real": [
+        "Jadomycin",
+        "Ceric Ammonium Nitrate",
+        "Platinum Diselenide",
+        "ACES",
+        "Laricitrin",
+        "Diphos",
+        "Triacetonamine",
+        "N-Hydroxyphthalimide",
+        "Manganese(III) Acetate",
+        "Ariadne"
+    ],
+    "fabricated": [
+        "Melomycin",
+        "Europic ammonium nitrate",
+        "Calcium Diselenide",
+        "ACUF",
+        "Kumicitrin",
+        "Difluomene",
+        "Triacetonfluorine",
+        "N-Oxoniumphthalimide",
+        "Argon Acetate",
+        "Piadne"
+    ],
+    "questions": [
+        "What is the CAS Number of $COMPOUND$?",
+        "What is the chemical compound $COMPOUND$ used for?",
+        "How does the chemical compound $COMPOUND$ look like?",
+        "Under which other names is $COMPOUND$ also known?",
+        "What is the chemical formula of $COMPOUND$?"
+    ]
+}

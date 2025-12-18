@@ -1,0 +1,36 @@
+{
+    "slot": "$GALAXY$",
+    "question_existence": "Is there a galaxy called $GALAXY$?",
+    "real": [
+        "Antennae Galaxies",
+        "Butterfly Galaxies",
+        "Condor Galaxy",
+        "Helix Galaxy",
+        "Little Sombrero Galaxy",
+        "Wolf-Lundmark-Melotte Galaxy",
+        "Spider Galaxy",
+        "Whale Galaxy",
+        "Pinwheel Galaxy",
+        "Sculptor Dwarf Galaxy"
+    ],
+    "fabricated": [
+        "Ember Galaxy",
+        "Twisted Ring Galaxy",
+        "Quantum Halo Galaxy",
+        "Trident Galaxy",
+        "Diamond Galaxy",
+        "Mirage Galaxy",
+        "Dolphin Galaxy",
+        "Sparrow Galaxy",
+        "Top Hat Galaxy",
+        "Darts Galaxy"
+    ],
+    "questions": [
+        "Which constellation is the $GALAXY$ in?",
+        "How far away is the $GALAXY$?",
+        "How was the $GALAXY$ discovered?",
+        "Give me some trivia facts about the $GALAXY$.",
+        "What is the estimated age of the $GALAXY$?",
+        "What is the estimated number of stars in the $GALAXY$?"
+    ]
+}

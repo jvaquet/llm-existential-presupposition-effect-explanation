@@ -1,0 +1,35 @@
+{
+    "slot": "$MOUNTAIN$",
+    "question_existence": "Is there a mountain called $MOUNTAIN$ mountain?",
+    "real": [
+        "Acotango",
+        "Popocatépetl",
+        "Roque Nublo",
+        "Zumsteinspitze",
+        "Muztagh Ata",
+        "Nevado Anallajsi",
+        "Gazey",
+        "Jungfrau",
+        "Orjen",
+        "Le Pouce"
+    ],
+    "fabricated": [
+        "Veradun",
+        "Zyphor",
+        "Rovik Glacier",
+        "Vantor's Bluff",
+        "Kisarach",
+        "Olundar",
+        "Xandria",
+        "Talamor",
+        "Baxthar",
+        "Kapalara"
+    ],
+    "questions": [
+        "What is the elevation of the $MOUNTAIN$ mountain?",
+        "What is the prominence of the $MOUNTAIN$ mountain?",
+        "Where is the $MOUNTAIN$ mountain located?",
+        "Who first climbed the $MOUNTAIN$ mountain?",
+        "Which mountain range is the $MOUNTAIN$ part of?"
+    ]
+}

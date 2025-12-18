@@ -1,0 +1,34 @@
+{
+    "slot": "$THEORY$",
+    "question_existence": "Is there a scientific theory called $THEORY$?",
+    "real": [
+        "the Roe Effect",
+        "Smith's First Law",
+        "Comparative Advantage",
+        "the Gompertz-Makeham Law of Mortality",
+        "Littlewood's Law",
+        "the Quantum KZ Equations",
+        "Byerlee's law",
+        "Richmann's law",
+        "the AdS Black Brane Solution",
+        "Spörer's law"
+    ],
+    "fabricated": [
+        "the Josh Effect",
+        "Ronald's First Law",
+        "Residual Savings",
+        "the Shaffer-Bauer Law of Regularity",
+        "Lozano's Law",
+        "the Independent ER Equations",
+        "Poole's Law",
+        "O'Neal's Law",
+        "the Toroidal Black Body Solution",
+        "Cline's Law"
+    ],
+    "questions": [
+        "In what field of science is $THEORY$ relevant?",
+        "What does $THEORY$ say?",
+        "Who formulated $THEORY$?",
+        "When was $THEORY$ formulated?"
+    ]
+}

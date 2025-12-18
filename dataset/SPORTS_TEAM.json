@@ -1,0 +1,34 @@
+{
+    "slot": "$SPORTS_TEAM$",
+    "question_existence": "Is there a sports team called $SPORTS_TEAM$?",
+    "real": [
+        "Georgia Swarm",
+        "TTT Riga",
+        "Samsung Life Blueminx",
+        "Ave Maria Gyrenes",
+        "Baloncesto Fuenlabrada",
+        "Reservoir Football Club",
+        "Al Riyadi Amman",
+        "AS FAR",
+        "Leopold Football Netball Club",
+        "Tasmanian University Football Club"
+    ],
+    "fabricated": [
+        "Georgia Sharks",
+        "LLL Riga",
+        "Seoul LG Minxes",
+        "Berea Fighters",
+        "Baloncesto Rubí",
+        "Brassall Football Club",
+        "Al Riyadi Zarqa",
+        "AS SFR",
+        "Moodlu Football Netball Club",
+        "Hendricks University Football Club"
+    ],
+    "questions": [
+        "What sports does the club $SPORTS_TEAM$ play?",
+        "What league is the club $SPORTS_TEAM$ in?",
+        "When was the sports club $SPORTS_TEAM$ founded?",
+        "Where is the sports club $SPORTS_TEAM$ based?"
+    ]
+}

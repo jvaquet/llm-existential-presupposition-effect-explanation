@@ -1,0 +1,36 @@
+{
+    "slot": "$TUNNEL$",
+    "question_existence": "Is there a tunnel called $TUNNEL$?",
+    "real": [
+        "Dos Valires Tunnel",
+        "Kalbajar Tunnel",
+        "Brockville Tunnel",
+        "Vágatunnilin Tunnel",
+        "Zhongnanshan Tunnel",
+        "Yuchang Tunnel ",
+        "Malakand Tunnel",
+        "Fréjus Road Tunnel",
+        "New Katraj Tunnel",
+        "René Konen Tunnel"
+    ],
+    "fabricated": [
+        "Soria Tunnel",
+        "Yazd Tunnel",
+        "Edmonton Tunnel",
+        "Frederik Tunnel",
+        "Hunan Tunnel",
+        "Kaohsiung Tunnel",
+        "Layyah Tunnel",
+        "Mercantour Tunnel",
+        "Kanpur Tunnel",
+        "Harding Tunnel"
+    ],
+    "questions": [
+        "How long is the $TUNNEL$?",
+        "When was the $TUNNEL$ opened?$",
+        "Where is the $TUNNEL$ located?",
+        "What goes the $TUNNEL$ under?",
+        "For what kind of traffic was the $TUNNEL$ built?",
+        "How big is the $TUNNEL$?"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "slot": "$STAR$",
+    "question_existence": "Is there a star called $STAR$?",
+    "real": [
+        "Alphecca",
+        "Giausar",
+        "Lich",
+        "Rigil Kentaurus",
+        "Wurren",
+        "Tianguan",
+        "Peacock",
+        "Mizar",
+        "Kaus Media",
+        "Gacrux"
+    ],
+    "fabricated": [
+        "Nyxo",
+        "Vorlithon",
+        "Zeraphis",
+        "Orphon",
+        "Xanthon",
+        "Velmora",
+        "Athyro",
+        "Caltheron",
+        "Draxis Minor",
+        "Lysenne"
+    ],
+    "questions": [
+        "Which constellation does the star $STAR$ belong to?",
+        "Under which designations is the star $STAR$ also known?",
+        "How far is the star $STAR$ away from earth?",
+        "How old is the star $STAR$?",
+        "How massive is the star $STAR$?"
+    ]
+}

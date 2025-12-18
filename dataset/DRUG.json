@@ -1,0 +1,34 @@
+{
+    "slot": "$DRUG$",
+    "question_existence": "Is there a drug called $DRUG$?",
+    "real": [
+        "Insulin",
+        "Omeprazole",
+        "Aspirin",
+        "Enalapril",
+        "Deferoxamine",
+        "Imatinib",
+        "Benznidazole",
+        "Clarithromycin",
+        "Naloxone",
+        "Diethylcarbamazine"
+    ],
+    "fabricated": [
+        "Barolin",
+        "Rumeprazole",
+        "Mestapirin",
+        "Belupril",
+        "Kasuoxamine",
+        "Imarolib",
+        "Benznodazenin",
+        "Thiromycin",
+        "Reloxene",
+        "Diethylcarbaldehyde"
+    ],
+    "questions": [
+        "What diseases are treated using $DRUG$?",
+        "Under what trade names is the drug $DRUG$ sold?",
+        "How does the drug $DRUG$ work?",
+        "Is $DRUG$ a regulated drug?"
+    ]
+}

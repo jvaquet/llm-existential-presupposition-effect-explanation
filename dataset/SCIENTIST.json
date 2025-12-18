@@ -1,0 +1,34 @@
+{
+    "slot": "$SCIENTIST$",
+    "question_existence": "Is there a scientist called $SCIENTIST$?",
+    "real": [
+        "René Thomas",
+        "M. Tamer Özsu",
+        "Chris Rogers",
+        "Marylyn Addo",
+        "Peter Barlow",
+        "Valerie Speirs",
+        "Peter Norvig",
+        "Vanesa Magar Brunner",
+        "Robert R. Gaines",
+        "Ulf von Euler"
+    ],
+    "fabricated": [
+        "Gracie Krueger",
+        "Marlin Barnett",
+        "Conrad Hendrix",
+        "Richie Shepherd",
+        "Hipolito Stephens",
+        "Jewell Alvarez",
+        "Van Sosa",
+        "Waylon Reid",
+        "Ezequiel Cortez",
+        "Rosemarie Chase"
+    ],
+    "questions": [
+        "What field is scientist $SCIENTIST$ researching?",
+        "Name some publications by scientist $SCIENTIST$.",
+        "When was scientist $SCIENTIST$ born?",
+        "Where is scientist $SCIENTIST$ from?"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "slot": "$MINERAL$",
+    "question_existence": "Is there a mineral called $MINERAL$?",
+    "real": [
+        "Carobbiite",
+        "Alum-(K)",
+        "Xifengite",
+        "Anilite",
+        "Tenorite",
+        "Kalinite",
+        "Abenakiite-(Ce)",
+        "Inderite",
+        "Goslarite",
+        "Sylvanite"
+    ],
+    "fabricated": [
+        "Carrizite",
+        "Melum-(K)",
+        "Xiyunite",
+        "Peririte",
+        "Sopranite",
+        "Lithinite",
+        "Ubanekiite-(Ce)",
+        "Khazarite",
+        "Thübinite",
+        "Transylnite"
+    ],
+    "questions": [
+        "What is the IMA symbol of $MINERAL$?",
+        "How does $MINERAL$ look like?",
+        "What is the chemical formula for $MINERAL$?",
+        "Where can $MINERAL$ be found?"
+    ]
+}

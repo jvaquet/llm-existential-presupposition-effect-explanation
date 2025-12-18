@@ -1,0 +1,34 @@
+{
+    "slot": "$ARTIST$",
+    "question_existence": "Is there an artist called $ARTIST$?",
+    "real": [
+        "Denise Chaila",
+        "Bibhu Mohapatra",
+        "David Tindle",
+        "Alice Leslie Carter",
+        "Bernard Manning",
+        "Sara Kathryn Arledge",
+        "Bill Muter",
+        "Shai Dahan",
+        "Delino Marçal",
+        "David Sylvian"
+    ],
+    "fabricated": [
+        "Pasquale Levine",
+        "Christy Solomon",
+        "Yong Middleton",
+        "Chet Robles",
+        "Julian Reneson",
+        "Lourdes Newton",
+        "Billie Navarro",
+        "Cyrus Lowe",
+        "Pearl Gibbs",
+        "Asa Gordon"
+    ],
+    "questions": [
+        "What kind of art is artist $ARTIST$ known for?",
+        "What is artist $ARTIST$ most known piece of art?",
+        "When was artist $ARTIST$ born?",
+        "Where is artist $ARTIST$ from?"
+    ]
+}

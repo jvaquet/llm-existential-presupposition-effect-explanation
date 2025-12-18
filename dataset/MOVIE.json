@@ -1,0 +1,37 @@
+{
+    "slot": "$MOVIE$",
+    "question_existence": "Is there a movie called $MOVIE$?",
+    "real": [
+        "Les Misérables",
+        "The World Is Not Enough",
+        "The Green Hornet (2011)",
+        "Robin Hood (1973)",
+        "All the President's Men",
+        "Arlington Road",
+        "Godzilla (2014)",
+        "Unthinkable (2010)",
+        "The Legend of Tarzan",
+        "Mystery, Alaska"
+    ],
+    "fabricated": [
+        "So Miserable",
+        "Never Got Enough",
+        "The Teal Butterfly (2003)",
+        "Another Death",
+        "Just Traitors",
+        "Bedtime Avenue",
+        "Fierce Monsters",
+        "Unattainable Wealth",
+        "The Legend of the Desert",
+        "Murder, Ohio"
+    ],
+    "questions": [
+        "Who directed $MOVIE$?",
+        "Who is the lead actor in $MOVIE$?",
+        "When was the movie $MOVIE$ released?",
+        "Give me a short summary of the plot of the movie $MOVIE$.",
+        "Which genre is the movie $MOVIE$?",
+        "How long is the movie $MOVIE$?",
+        "What is the original language of $MOVIE$?"
+    ]
+}

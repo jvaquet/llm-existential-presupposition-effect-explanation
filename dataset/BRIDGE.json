@@ -1,0 +1,38 @@
+{
+    "slot": "$BRIDGE$",
+    "question_existence": "Is there a bridge called $BRIDGE$?",
+    "real": [
+        "Hennie Steyn Bridge",
+        "Nysa Bridge",
+        "Napier Bridge",
+        "Ōnaruto Bridge",
+        "Weidendammer Bridge",
+        "Slauerhoffbrug Bridge",
+        "Quebec Bridge",
+        "Manhattan Bridge",
+        "Rumichaca Bridge",
+        "Nowra Bridge"
+    ],
+    "fabricated": [
+        "Grahamstown Bridge",
+        "Sazli Bridge",
+        "Gwalior Bridge",
+        "Himeji Bridge",
+        "Satteldorf Bridge",
+        "Helmond Bridge",
+        "Grand Gateway Bridge",
+        "Louisiana Bridge",
+        "Hawker Bridge",
+        "Curicó Bridge"
+    ],
+    "questions": [
+        "Where is the $BRIDGE$ located?",
+        "What does the $BRIDGE$ cross?",
+        "What does the $BRIDGE$ carry?",
+        "What type of bridge is the $BRIDGE$?",
+        "What material is the $BRIDGE$ built from?",
+        "How long is the $BRIDGE$?",
+        "How high is the $BRIDGE$?",
+        "When was the $BRIDGE$ constructed?"
+    ]
+}
